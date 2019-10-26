@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.iccsafe.org"
   date_start = "2018-04-27"
   date_end = ""
-  description = ""
+  description = """
 
 [[item]]
   organization = "State of Florida"
@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-04-08"
   date_end = ""
-  description = ""
+  description = """
 
 +++
