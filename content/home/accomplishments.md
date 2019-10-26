@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-04-27"
   date_end = "2021-04-26"
-
+  description = "ICC exam that covers basic plan review, building code, and code enforcement."
 
 +++
