@@ -27,15 +27,6 @@ date_format = "Jan 2006"
   date_start = "2018-04-27"
   date_end = ""
   description = """
-"""
-[[item]]
-  organization = "State of Florida"
-  organization_url = ""
-  title = "Notary Public"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-04-08"
-  date_end = ""
-  description = """
+
 
 +++
