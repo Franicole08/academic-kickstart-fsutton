@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include designing for older adults, game studies, and fan culture.
+bio: Jackson, Mississippi native.
 interests:
 - Digital Media
 - Human Factors
@@ -28,7 +28,7 @@ education:
   - course: Graduate Certificate in User Experience Design/Digital Media Production
     institution: University of Baltimore
     year: 2018
-  - course: MA in Urban + Regional Planning
+  - course: MA in Urban & Regional Planning
     institution: Jackson State University
     year: 2013
   - course: BA in Art
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francine N. Sutton is a first year PhD student in the Texts and Technology program with a concentration in Digital Media. Her current research is designing for older adults with little to no technology experience, fan culture, and game studies. 
