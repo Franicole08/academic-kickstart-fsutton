@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [item]]
   organization = "Florida Education Fund"
   organization_url = ""
@@ -25,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-08-26"
   date_end = "2020-05-26"
-  description = "Established in 1984 to increase the number of minority faculty members at public institutions in Florida"
+  description = """Established in 1984 to increase the number of minority faculty members at public institutions in Florida"""
 
 [[item]]
   organization = "International Code Council"
