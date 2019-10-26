@@ -30,9 +30,9 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "State of Florida"
-  organization_url = ""
+  organization_url = """
   title = "Notary Public"
-  url = ""
+  url = """
   certificate_url = ""
   date_start = "2018-04-08"
   date_end = ""
