@@ -27,18 +27,18 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Comprehensive Planning
+  * Zoning Map Amendments
+  * Affordable Housing Verification
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Planner I"
+  company = "City of Ocala"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Florida"
+  date_start = "2018-07-12"
+  date_end = "2019-07-19"
+  description = """Review site development plans, review building permits, and provide information to citizens."""
 
 +++
