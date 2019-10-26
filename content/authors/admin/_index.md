@@ -25,6 +25,9 @@ interests:
 
 education:
   courses:
+  -course: Doctor of Philosophy
+   institution: University of Central Florida
+   year: 2023 anticipated
   - course: Graduate Certificate in User Experience Design/Digital Media Production
     institution: University of Baltimore
     year: 2018
@@ -42,16 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:francine.sutton@knights.ucf.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/frannypack08
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/franicole08
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Francine N. Sutton is a first year PhD student in the Texts and Technology program with a concentration in Digital Media. Her current research is designing for older adults with little to no technology experience, fan culture, and game studies. 
+Francine N. Sutton is a first year PhD student in the Texts and Technology program with a concentration in Digital Media. Her current research is designing for older adults with little to no technology experience, fan culture, and game studies.
