@@ -27,7 +27,7 @@ education:
   courses:
   -course: Doctor of Philosophy
    institution: University of Central Florida
-   year: 2023 anticipated
+   year: 2023
   - course: Graduate Certificate in User Experience Design/Digital Media Production
     institution: University of Baltimore
     year: 2018
