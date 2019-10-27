@@ -39,7 +39,13 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2018-07-12"
   date_end = "2019-07-19"
-  description = """Review site development plans, review building permits, and provide information to citizens."""
+  description = """
+
+  Responsibilities include:
+  * Site Development Plan Review
+  * Building Permit review
+  * Prepare staff reports for public hearings
+  """
   [[experience]]
     title = "Planning Technician"
     company = "City of Gainesville"
@@ -47,6 +53,12 @@ date_format = "Jan 2006"
     location = "Florida"
     date_start = "2017-06-12"
     date_end = "2018-07-09"
-    description = """Schedule First Step Appointments, Process zoning compliance permits, provide zoning information to citizens."""
+    description = """
+
+    Responsibilities include:
+    * Schedule First Step Appointments
+    * Process Zoning Compliance permits
+    * Provide zoning information to citizens
+    """
 
 +++
