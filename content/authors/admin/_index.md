@@ -20,7 +20,7 @@ organizations:
 bio: Jackson, Mississippi native.
 interests:
 - Digital Media
-- Game Studies 
+- Game Studies
 - User Experience Design
 
 education:
@@ -43,6 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:francine.sutton@knights.ucf.edu".
+-icon: linkedin
+ icon_pack: fab
+ link: https://www.linkedin.com/in/francinesutton-design/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frannypack08
