@@ -20,7 +20,7 @@ organizations:
 bio: Jackson, Mississippi native.
 interests:
 - Digital Media
-- Human Factors
+- Game Studies 
 - User Experience Design
 
 education:
