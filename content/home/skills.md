@@ -37,4 +37,10 @@ subtitle = ""
     icon_pack = "fab"
     name = "Git"
     description = "20%"
+
+    [[feature]]
+      icon = "zotero"
+      icon_pack = "ai"
+      name = "Zotero"
+      description = "50%"
 +++
