@@ -51,7 +51,7 @@ social:
   link: https://github.com/franicole08
 - icon: linkedin-in
 - icon_pack: fab
-- link: https://linkedin.com/francinesutton
+- link: https://linkedin.com/francinesutton-design
 
 
 # Link to a PDF of your resume/CV from the About widget.
