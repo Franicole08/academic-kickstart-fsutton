@@ -43,15 +43,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:francine.sutton@knights.ucf.edu".
--icon: tumblr
- icon_pack: fab
- link: https://tumblr/frannymae08
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frannypack08
 - icon: github
   icon_pack: fab
   link: https://github.com/franicole08
+-icon: tumblr
+ icon_pack: fab
+ link:  https://tumblr.com/frannymae08
+-icon: linkedin
+ icon_pack: fab
+ link:  https://linkedin.com/francinesutton
+ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
