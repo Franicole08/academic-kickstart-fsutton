@@ -39,8 +39,14 @@ subtitle = ""
     description = "20%"
 
     [[feature]]
-      icon = "zotero"
-      icon_pack = "ai"
-      name = "Zotero"
-      description = "50%"
+      icon = "playstation"
+      icon_pack = "fab"
+      name = "Playstation"
+      description = "100%"
+
+      [[feature]]
+        icon = "html5"
+        icon_pack = "fab"
+        name = "HTML5"
+        description = "30%"
 +++
