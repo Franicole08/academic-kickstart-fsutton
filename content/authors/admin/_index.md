@@ -45,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:francine.sutton@knights.ucf.edu".
 -icon: linkedin
  icon_pack: fab
- link: https://www.linkedin.com/in/francinesutton-design/
+ link: https://linkedin.com/in/francinesutton-design/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frannypack08
