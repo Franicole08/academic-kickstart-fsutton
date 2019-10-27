@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   date_start = "2018-07-12"
   date_end = "2019-07-19"
   description = """
-
   Responsibilities include:
 
   * Site Development Plan Review
@@ -56,7 +55,6 @@ date_format = "Jan 2006"
     date_start = "2017-06-12"
     date_end = "2018-07-09"
     description = """
-
     Responsibilities include:
 
     * Schedule First Step Appointments
