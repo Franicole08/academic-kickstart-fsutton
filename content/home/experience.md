@@ -42,10 +42,12 @@ date_format = "Jan 2006"
   description = """
 
   Responsibilities include:
+
   * Site Development Plan Review
   * Building Permit review
   * Prepare staff reports for public hearings
   """
+  
   [[experience]]
     title = "Planning Technician"
     company = "City of Gainesville"
@@ -56,6 +58,7 @@ date_format = "Jan 2006"
     description = """
 
     Responsibilities include:
+
     * Schedule First Step Appointments
     * Process Zoning Compliance permits
     * Provide zoning information to citizens
