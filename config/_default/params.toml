@@ -94,7 +94,7 @@ address = {street = "400 Central Florida Blvd", city = "Orlando", region = "FL",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "28.6024", longitude = "81.2001"}
+coordinates = {latitude = "28.6024", longitude = "-81.2001"}
 
 # Directions for visitors to locate you.
 directions = ""
