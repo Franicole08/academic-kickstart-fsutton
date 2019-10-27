@@ -30,6 +30,11 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "20%"
+  description = "40%"
 
+  [[feature]]
+    icon = "git"
+    icon_pack = "fab"
+    name = "Git"
+    description = "20%"
 +++
