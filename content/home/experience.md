@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   * Building Permit review
   * Prepare staff reports for public hearings
   """
-  
+
   [[experience]]
     title = "Planning Technician"
     company = "City of Gainesville"
@@ -63,5 +63,5 @@ date_format = "Jan 2006"
     * Process Zoning Compliance permits
     * Provide zoning information to citizens
     """
-
+    """
 +++
