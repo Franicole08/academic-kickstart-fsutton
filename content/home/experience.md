@@ -60,6 +60,6 @@ date_format = "Jan 2006"
     * Schedule First Step Appointments
     * Process Zoning Compliance permits
     * Provide zoning information to citizens
-    """"""
+    """
 
 +++
