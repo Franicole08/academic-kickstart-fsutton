@@ -52,6 +52,9 @@ social:
 - icon: tumblr
   icon_pack: fab
   link: https://frannymae08.tumblr.com
+-icon: linkedin
+ icon_pack: fab
+ link: https://linkedin.com/francinesutton-design
 - icon: cv
   icon_pack: ai
   link: 'static/img/cv.pdf'
