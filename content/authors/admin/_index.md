@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/franicole08
+- icon: tumblr
+  icon_pack: fab
+  link: https://tumblr.com/frannymae08
 - icon: cv
   icon_pack: ai
   link: "static/files/cv.pdf"
