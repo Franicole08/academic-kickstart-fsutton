@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  -course: PhD in Texts & Technology
+  - course: PhD in Texts & Technology
    institution: University of Central Florida
    year: 2023
   - course: Graduate Certificate in User Experience Design/Digital Media Production
